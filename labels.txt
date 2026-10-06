@@ -1,0 +1,3 @@
+0 Background
+1 Pens or Pencils
+2 Other Objects
